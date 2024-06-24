@@ -23,7 +23,7 @@ Each of these files contains Class with multiple methods that handle distinct ac
         - update_product - can be used to update features of an existing product
         - remove_product - used to change the status of an existing product to 'suspended'.
      
-*Payments1 
+* Payments1 
   - Class - PolicyPayments
     -Methods
       - payment - accepts the policy id of the Policy holder paying for a product and updates the account status of a registered policy holder to 'Active'
